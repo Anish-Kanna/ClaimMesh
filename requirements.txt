@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+networkx
+pytest
+pytest-cov
+ruff
+mypy
